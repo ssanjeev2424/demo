@@ -1,3 +1,3 @@
 # Demo Project README
 
-Hey.. THere DUDE !!
+Hey.. I hope it's OK..
